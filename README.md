@@ -1,5 +1,5 @@
 # Centralized Logging on AWS Solution
-**Centralized Logging on AWS has been superseded by the Centralized Logging with OpenSearch [Centralized Logging with OpenSearch](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch/) solution. All existing deployments will continue to work but the solution will no longer be supported and maintained.**
+**Centralized Logging solution on AWS has been superseded by the Centralized Logging with OpenSearch [Centralized Logging with OpenSearch](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch/) solution. All existing deployments will continue to work but the solution will no longer be supported and maintained.**
 
 ## Table of content
 
